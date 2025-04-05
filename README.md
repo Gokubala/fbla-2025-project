@@ -1,1 +1,2 @@
 # fbla-2025-project
+This project is a web application to schedule sports lesson and games. This web app has front end using NextJS/ReactJs , Backend using ExpressJs/NodeJs and uses SQLite In-Memory Database.
